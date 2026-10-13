@@ -1,4 +1,8 @@
-# M.Sc. Researcher in Autonomous Mobile Robotics and Computer Vision
+# Maryam Norozpour Chari
+
+---
+
+## M.Sc. Researcher in Autonomous Mobile Robotics and Computer Vision
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/maryam-norouzpour)
 [![Email](https://img.shields.io/badge/Email-mnrzp08%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:mnrzp08@gmail.com)
 
@@ -15,11 +19,8 @@
 ###  Tech Stack & Tools
 
 - **Languages:** Python, C, MATLAB, Bash, VHDL
-- **AI & Perception:** PyTorch, OpenCV, Scikit-learn, Pandas, NumPy, XGBoost, Transformers, Mamba
-- **Systems & Tools:** Linux (Ubuntu 24.04), Git, Conda, LaTeX
+- **AI & Perception:** PyTorch, OpenCV, Scikit-learn
+- **Systems & Tools:** Linux (Ubuntu 24.04), Git, Rod/ ROS2, Docker, LaTeX
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: [mnrzp08@gmail.com](mailto:mnrzp08@gmail.com)
-- 💼 LinkedIn: [Maryam Norouzpour](https://linkedin.com/in/maryam-norouzpour)
